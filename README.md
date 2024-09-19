@@ -33,4 +33,3 @@ I'm Murat, a software developer passionate about backend development, especially
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alicemmurat/)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alcmrt&show_icons=true&theme=radical)
